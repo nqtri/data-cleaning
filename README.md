@@ -12,7 +12,6 @@ The file has the following structure:
 
 Header | Definition
 ---|---------
-
 `name` | Name of the car
 `seller` | Whether the seller is private or a dealer
 `offerType` | The type of listing
