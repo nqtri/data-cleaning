@@ -2,8 +2,6 @@
 # Courtesy of Dataquest Team
 3rd Guided Project on Dataquest: Exploring Ebay Car Sales Data
 
-This folder contains data behind the story [Some People Are Too Superstitious To Have A Baby On Friday The 13th](http://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/).
-
 There is one file:
 
 `autos.csv` contains a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website.
