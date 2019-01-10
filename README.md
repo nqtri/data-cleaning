@@ -12,6 +12,7 @@ The file has the following structure:
 
 Header | Definition
 ---|---------
+`dateCrawled` | When this ad was first crawled. All field-values are taken from this date
 `name` | Name of the car
 `seller` | Whether the seller is private or a dealer
 `offerType` | The type of listing
