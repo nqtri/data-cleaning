@@ -1,6 +1,8 @@
 # German Ebay Car Sales 
 # Courtesy of Dataquest Team
-3rd Guided Project on Dataquest: Exploring Ebay Car Sales Data
+3rd Guided Project on Dataquest: Exploring Ebay Car Sales Data.
+
+<b>In this project, I am exposed to NumPy and pandes libraries as well as working with techniques to clean and transform data.</b>
 
 There is one file:
 
